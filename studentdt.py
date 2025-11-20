@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) != 3:
-  print("Usage: python student.py <name> <roll number>
+  print("Usage: python student.py <name> <rollno>
         sys.exist(1)
 
 script_name = sys.argv[0]
